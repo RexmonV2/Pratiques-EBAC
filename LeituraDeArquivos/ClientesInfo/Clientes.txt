@@ -1,0 +1,3 @@
+40|João|34|Coca Cola
+50|Maria|48|Boticario
+60|Claudio|36|Petrobras
